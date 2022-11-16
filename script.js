@@ -2,7 +2,7 @@
 
 // <=============Constructor Functions (OOP)=================>//
 
-// We use constructor functions to build the objects using functions .The only difference between the constructor function and the regular function is just "new" keyword .
+// We use constructor functions to build the objects using functions,The only difference between the constructor function and the regular function is just "new" keyword .
 
 const Sports = function (firstSport, secondSport) {
   console.log(this); //output => Sports {}
